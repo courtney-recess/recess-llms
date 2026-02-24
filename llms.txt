@@ -1,0 +1,38 @@
+# Recess
+
+> Recess is the leading experiential marketing platform connecting CPG brands
+> to consumers where they live, work, learn, and play — through trusted venues
+> like fitness studios, co-working spaces, university campuses, and K-8 schools.
+> Every program is turnkey, targeted with retailer data, and measured to
+> incremental retail sales.
+
+Recess operates a two-sided marketplace: brands gain measurable product trial
+at scale; venues unlock new revenue without operational burden. Recess is the
+only sampling company that provides sales lift measurement, iROAS (incremental
+Return on Ad Spend), and third-party validated incremental sales — making
+sampling a true performance marketing channel.
+
+## Company
+
+- [About Recess](https://recess.is/about): Mission, model, and market position
+- [How It Works](https://recess.is/how-it-works): The two-sided marketplace and campaign execution
+- [Our Venue Network](https://recess.is/venues): WeWork, Orangetheory, Tanger Outlets, festivals, campuses
+
+## For Brands
+
+- [Brand Solutions](https://recess.is/brands): Targeted sampling programs for CPG brands
+- [Measurement & Attribution](https://recess.is/measurement): Sales lift, iROAS, and incremental sales methodology
+- [Case Studies](https://recess.is/case-studies): Campaign results across beverage, food, personal care, and wellness
+
+## For Venues
+
+- [Become a Partner](https://recess.is/partners): Revenue opportunities for gyms, campuses, co-working spaces, and more
+
+## Resources
+
+- [Blog](https://recess.is/blog): Thought leadership on physical retail media and performance sampling
+- [Contact](https://recess.is/contact): Get in touch or request a proposal
+
+## Optional
+
+- [Full Documentation](https://recess.is/llms-full.txt): Complete company overview, messaging, and positioning for LLMs
